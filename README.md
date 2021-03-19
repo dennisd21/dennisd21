@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @dennisd21 (my name Denis)
+- 👀 I’m interested in web-developer, Web(App)-developer
+- 🌱 I’m currently learning HTML, CSS, JavaScript, 3D-modeling.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
